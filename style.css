@@ -1,0 +1,21 @@
+#Heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: monospace;
+}
+input{
+    margin: 10px;
+    width: 200px;
+    border-radius: 50px;
+}
+body{
+    text-align: center;
+}
+#submit_button{
+    margin: 20px;
+}
+#sort_button{
+    margin: 20px;
+    display: none;
+}
